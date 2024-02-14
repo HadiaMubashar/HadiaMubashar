@@ -2,22 +2,22 @@
 <h3 align="left">Data Analyst and Android Developer</h3>
 Welcome to my GitHub profile! I'm passionate about programming, data science, and software development. Here's a brief overview of my skills and expertise:
 
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 Currently working on **Machine Learning projects**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Data Science projects**
+- 👯 Looking to collaborate on **Data Analysis and Data Science projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HadiaMubashar](https://github.com/HadiaMubashar)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-- My Email is **hadiaj2002@gmail.com**
+- Email Address is **hadiaj2002@gmail.com**
 - Read my blogs here **https://medium.com/@hadiamubashar**
 
-- My Linkedin profile: <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadia-mubashar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadia-mubashar/" height="30" width="40" /></a>
+- Linkedin profile: <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadia-mubashar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadia-mubashar/" height="30" width="40" /></a>
 
   
-- My Kaggle profile: <a href="https://kaggle.com/https://www.kaggle.com/hadiamubashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hadiamubashar" height="30" width="40" /></a>
+  - Kaggle profile: <a href="https://kaggle.com/https://www.kaggle.com/hadiamubashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hadiamubashar" height="30" width="40" /></a>
 </p>
 
 Let's connect and collaborate on exciting projects!
