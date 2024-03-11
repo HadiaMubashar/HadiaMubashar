@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm passionate about programming, data science, an
 - Email Address is **hadiaj2002@gmail.com**
 - Read my blogs here **https://medium.com/@hadiamubashar**
 
-- Linkedin profile: <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadia-mubashar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadia-mubashar/" height="30" width="40" /></a>
+- Linkedin profile: <a href="https://linkedin.com/in/hadia-mubashar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadia-mubashar/" height="30" width="40" /></a>
 
   
-- Kaggle profile: <a href="https://kaggle.com/https://www.kaggle.com/hadiamubashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hadiamubashar" height="30" width="40" /></a>
+- Kaggle profile: <a href="https://kaggle.com/hadiamubashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hadiamubashar" height="30" width="40" /></a>
 </p>
 
 Let's connect and collaborate on exciting projects!
